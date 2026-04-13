@@ -3,5 +3,5 @@ const saludo = "Hola desde B";
 console.log(saludo);
 
 function despedida() {
-    console.log("Adiós mundo");
+    console.log("Bye Bye");
 }
